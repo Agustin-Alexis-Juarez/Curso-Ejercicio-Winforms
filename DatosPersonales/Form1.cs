@@ -14,7 +14,7 @@ namespace Datos_Personales__repaso_
     {
         public FrmDatosPersonales()
         {
-            
+            //comentario de prueba para gitHub :)
             InitializeComponent();
         }
 
